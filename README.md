@@ -12,7 +12,6 @@
 
 This project covers the design, simulation, PCB fabrication, and testing of a **Class AB Audio Amplifier** capable of driving a 5W, 4Ω speaker. The system includes a pre-amplifier stage (UA741 op-amp), a high-pass filter to suppress low-frequency noise, and a complementary Class AB push-pull output stage using BD139/BD140 transistors — all implemented on a custom-etched PCB.
 
-\---
 
 ## Circuit Architecture
 
